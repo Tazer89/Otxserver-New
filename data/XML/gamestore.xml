@@ -10,22 +10,237 @@
         <offer name="Teleport to x,y,z" description="Go to a specific location" price="100" type="teleport" x="500" y="1000" z="7" icons="teleportxyz.png" />
     </category>
     <category name="Mounts" description="Buy your character one or more of the fabolous mounts offered here." state="sale" icons="mounts_category.png">
-        <offer name="Lady Bug Mount" type="mount" mountid="27" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Widow Queen" type="mount" mountid="1" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Racing Bird" type="mount" mountid="2" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="War Bear" type="mount" mountid="3" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Black Sheep" type="mount" mountid="4" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Midnight Panther" type="mount" mountid="5" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Draptor" type="mount" mountid="6" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Titanica" type="mount" mountid="7" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Tin Lizzard" type="mount" mountid="8" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Blazebringer" type="mount" mountid="9" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Rapid Boar" type="mount" mountid="10" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Stampor" type="mount" mountid="11" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Undead Cavebear" type="mount" mountid="12" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Donkey" type="mount" mountid="13" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Tiger Slug" type="mount" mountid="14" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Uniwheel" type="mount" mountid="15" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Crystal Wolf" type="mount" mountid="16" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="War Horse" type="mount" mountid="17" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Kingly Deer" type="mount" mountid="18" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Tamed Panda" type="mount" mountid="19" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Dromedary" type="mount" mountid="20" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Scorpion King" type="mount" mountid="21" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Armoured War Horse" type="mount" mountid="23" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Shadow Draptor" type="mount" mountid="24" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Ladybug" type="mount" mountid="27" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Manta Ray" type="mount" mountid="28" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Ironblight" type="mount" mountid="29" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Magma Crawler" type="mount" mountid="30" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Dragonling" type="mount" mountid="31" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Gnarlhound" type="mount" mountid="32" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Crimson Ray" type="mount" mountid="33" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Steelbeak" type="mount" mountid="34" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Water Buffalo" type="mount" mountid="35" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Tombstinger" type="mount" mountid="36" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Platesaurian" type="mount" mountid="37" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Ursagrondon" type="mount" mountid="38" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="The Hellgrip" type="mount" mountid="39" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Noble Lion" type="mount" mountid="40" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Desert King" type="mount" mountid="41" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Shock Head" type="mount" mountid="42" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Walker" type="mount" mountid="43" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Azudocus" type="mount" mountid="44" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Carpacosaurus" type="mount" mountid="45" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Death Crawler" type="mount" mountid="46" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Flamesteed" type="mount" mountid="47" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Jade Lion" type="mount" mountid="48" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Jade Pincer" type="mount" mountid="49" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Nethersteed" type="mount" mountid="50" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Tempest" type="mount" mountid="51" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Winter King" type="mount" mountid="52" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Doombringer" type="mount" mountid="53" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Woodland Prince" type="mount" mountid="54" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Hailtorm Fury" type="mount" mountid="55" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Siegebreaker" type="mount" mountid="56" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Poisonbane" type="mount" mountid="57" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Blackpelt" type="mount" mountid="58" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Golden Dragonfly" type="mount" mountid="59" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Steel Bee" type="mount" mountid="60" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Copper Fly" type="mount" mountid="61" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Tundra Rambler" type="mount" mountid="62" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Highland Yak" type="mount" mountid="63" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Glacier Vagabond" type="mount" mountid="64" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Flying Divan" type="mount" mountid="65" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Magic Carpet" type="mount" mountid="66" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Floating Kashmir" type="mount" mountid="67" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Ringtail Waccoon" type="mount" mountid="68" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Night Waccoon" type="mount" mountid="69" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Emerald Waccoon" type="mount" mountid="70" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Glooth Glider" type="mount" mountid="71" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Shadow Hart" type="mount" mountid="72" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Black Stag" type="mount" mountid="73" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Emperor Deer" type="mount" mountid="74" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Flitterkatzen" type="mount" mountid="75" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Venompaw" type="mount" mountid="76" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Batcat" type="mount" mountid="77" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Sea Devil" type="mount" mountid="78" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Coralripper" type="mount" mountid="79" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Plumfish" type="mount" mountid="80" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Gorongra" type="mount" mountid="81" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Noctungra" type="mount" mountid="82" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Silverneck" type="mount" mountid="83" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Slagsnare" type="mount" mountid="84" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Nightstinger" type="mount" mountid="85" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Razorcreep" type="mount" mountid="86" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Rift Runner" type="mount" mountid="87" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Nightdweller" type="mount" mountid="88" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Frostflare" type="mount" mountid="89" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Cinderhoof" type="mount" mountid="90" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Mouldpincer" type="mount" mountid="91" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Bloodcurl" type="mount" mountid="92" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Leafscuttler" type="mount" mountid="93" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Sparkion" type="mount" mountid="94" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Swamp Nnapper" type="mount" mountid="95" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Mould Shell" type="mount" mountid="96" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Reed Lurker" type="mount" mountid="97" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Neon Sparkid" type="mount" mountid="98" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Vortexion" type="mount" mountid="99" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Ivory Fang" type="mount" mountid="100" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Shadow Claw" type="mount" mountid="101" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Snow Pelt" type="mount" mountid="102" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Red Halloween" type="mount" mountid="103" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Brown Halloween" type="mount" mountid="104" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Black Halloween" type="mount" mountid="105" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Stone Rhino" type="mount" mountid="106" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Gold Sphinx" type="mount" mountid="107" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Emerald Sphinx" type="mount" mountid="108" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Shadow Sphinx" type="mount" mountid="109" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Jungle Saurian" type="mount" mountid="110" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Ember Saurian" type="mount" mountid="111" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
+        <offer name="Lagoon Saurian" type="mount" mountid="112" description="Buying this mount will help our server survive!" price="750" icons="snowpeltmount_2.png" />
     </category>
     <category name="Equipments" description="Buy your character one or more of the helpful items offered here." state="new" icons="convenience.png" >
         <offer name="Spellbook of Vigilance" type="item" price="60" productid="18401" count="1"  icons="spellbook_vigilance.png" />
     </category>
-    <category name="Runes" description="Buy magically filled runes to unleash their energy when in need of it." state="limitedtime" icons="runes.png">
-        <offer name="Chameleon Rune" description="Fool your friends with an item outfit!" price="10" type="stackableitem" productid="2291" count="100" icons="chameleon_rune.png" />
-
+    <category name="House Equipment" description="Buy your house one or more of the nice equipments offered here." state="limitedtime" icons="convenience.png" >
+        <offer name="Fish Tank" type="item" price="180" productid="26464" count="1"  icons="spellbook_vigilance.png" />
     </category>
-    <category name="Outfits" description="Look cooler!" icons="outfits1.png|outfits2.png|outfits3.png">
-        <offer name="Sea Dog Outfit" description="Do what ya want 'cuz a pirate's free!" type="outfit" malelooktype="750" femalelooktype="749" price="200" icons="seadog_male.png|seadog_female.png" />
-        <offer name="Sea Dog Addon 1" description="You arr a pirate!" type="addon" malelooktype="750" femalelooktype="749" addon="1" price="100" icons="seadogaddon1.png" />
-        <offer name="Full Sea Dog Outfit" description="Yar har, fiddle-dee-dee!!" type="outfit" addon="3" malelooktype="750" femalelooktype="749" price="360" icons="seadogfull.png" />
+    <category name="Runes" description="Buy magically filled runes to unleash their energy when in need of it." state="sale" icons="runes.png">
+        <offer name="Animate Dead Rune" description="Nothing" price="75" type="stackableitem" productid="2316" count="250" icons="chameleon_rune.png" />
+        <offer name="Avalanche Rune" description="Nothing" price="9" type="stackableitem" productid="2274" count="250" icons="chameleon_rune.png" />
+        <offer name="Chameleon Rune" description="Nothing" price="42" type="stackableitem" productid="2291" count="250" icons="chameleon_rune.png" />
+        <offer name="Convince Creature Runes" description="Nothing" price="16" type="stackableitem" productid="2290" count="250" icons="chameleon_rune.png" />
+        <offer name="Cure Poison Rune" description="Nothing" price="13" type="stackableitem" productid="2266" count="250" icons="chameleon_rune.png" />
+        <offer name="Disintegrate Rune" description="Nothing" price="5" type="stackableitem" productid="2310" count="250" icons="chameleon_rune.png" />
+        <offer name="Energy Bomb Rune" description="Nothing" price="32" type="stackableitem" productid="2262" count="250" icons="chameleon_rune.png" />
+        <offer name="Energy Field Rune" description="Nothing" price="8" type="stackableitem" productid="2277" count="250" icons="chameleon_rune.png" />
+        <offer name="Energy Wall Rune" description="Nothing" price="17" type="stackableitem" productid="2279" count="250" icons="chameleon_rune.png" />
+        <offer name="Explosion Rune" description="Nothing" price="6" type="stackableitem" productid="2313" count="250" icons="chameleon_rune.png" />
+        <offer name="Fireball Rune" description="Nothing" price="6" type="stackableitem" productid="2302" count="250" icons="chameleon_rune.png" />
+        <offer name="Fire Bomb Rune" description="Nothing" price="23" type="stackableitem" productid="2305" count="250" icons="chameleon_rune.png" />
+        <offer name="Fire Field Rune" description="Nothing" price="6" type="stackableitem" productid="2301" count="250" icons="chameleon_rune.png" />
+        <offer name="Fire Wall Rune" description="Nothing" price="12" type="stackableitem" productid="2303" count="250" icons="chameleon_rune.png" />
+        <offer name="Great Fireball Rune" description="Nothing" price="9" type="stackableitem" productid="2304" count="250" icons="chameleon_rune.png" />
+        <offer name="Icicle Rune" description="Nothing" price="6" type="stackableitem" productid="2271" count="250" icons="chameleon_rune.png" />
+        <offer name="Intense Healing Rune" description="Nothing" price="19" type="stackableitem" productid="2265" count="250" icons="chameleon_rune.png" />
+        <offer name="Magic Wall Rune" description="Nothing" price="23" type="stackableitem" productid="2293" count="250" icons="chameleon_rune.png" />
+        <offer name="Paralyse Rune" description="Nothing" price="140" type="stackableitem" productid="2278" count="250" icons="chameleon_rune.png" />
+        <offer name="Poison Bomb Rune" description="Nothing" price="17" type="stackableitem" productid="2286" count="250" icons="chameleon_rune.png" />
+        <offer name="Poison Wall Rune" description="Nothing" price="10" type="stackableitem" productid="2289" count="250" icons="chameleon_rune.png" />
+        <offer name="Soulfire Rune" description="Nothing" price="9" type="stackableitem" productid="2308" count="250" icons="chameleon_rune.png" />
+        <offer name="Stone Shower Rune" description="Nothing" price="7" type="stackableitem" productid="2288" count="250" icons="chameleon_rune.png" />
+        <offer name="Sudden Death Rune" description="Nothing" price="22" type="stackableitem" productid="2268" count="250" icons="chameleon_rune.png" />
+        <offer name="Thunderstorm Rune" description="Nothing" price="7" type="stackableitem" productid="2315" count="250" icons="chameleon_rune.png" />
+        <offer name="Ultimate Healing Rune" description="Nothing" price="35" type="stackableitem" productid="2273" count="250" icons="chameleon_rune.png" />
+        <offer name="Wild Growth Rune" description="Nothing" price="32" type="stackableitem" productid="2269" count="250" icons="chameleon_rune.png" />
+    </category>
+    <category name="Potions" description="Buy magically filled runes to unleash their energy when in need of it." state="sale" icons="runes.png">
+        <offer name="Health Potion" description="Nothing" price="4" type="stackableitem" productid="7618" count="125" icons="chameleon_rune.png" />
+        <offer name="Health Potion" description="Nothing" price="10" type="stackableitem" productid="7618" count="300" icons="chameleon_rune.png" />
+        <offer name="Strong Health Potion" description="Nothing" price="7" type="stackableitem" productid="7588" count="100" icons="chameleon_rune.png" />
+        <offer name="Strong Health Potion" description="Nothing" price="18" type="stackableitem" productid="7588" count="250" icons="chameleon_rune.png" />
+        <offer name="Great Health Potion" description="Nothing" price="13" type="stackableitem" productid="7591" count="100" icons="chameleon_rune.png" />
+        <offer name="Great Health Potion" description="Nothing" price="34" type="stackableitem" productid="7591" count="250" icons="chameleon_rune.png" />
+        <offer name="Ultimate Health Potion" description="Nothing" price="22" type="stackableitem" productid="8473" count="100" icons="chameleon_rune.png" />
+        <offer name="Ultimate Health Potion" description="Nothing" price="55" type="stackableitem" productid="8473" count="250" icons="chameleon_rune.png" />
+        <offer name="Supreme Health Potion" description="Nothing" price="36" type="stackableitem" productid="26031" count="100" icons="chameleon_rune.png" />
+        <offer name="Supreme Health Potion" description="Nothing" price="90" type="stackableitem" productid="26031" count="250" icons="chameleon_rune.png" />
+        <offer name="Mana Potion" description="Nothing" price="4" type="stackableitem" productid="7620" count="125" icons="chameleon_rune.png" />
+        <offer name="Mana Potion" description="Nothing" price="10" type="stackableitem" productid="7620" count="300" icons="chameleon_rune.png" />
+        <offer name="Strong Mana Potion" description="Nothing" price="6" type="stackableitem" productid="7589" count="100" icons="chameleon_rune.png" />
+        <offer name="Strong Mana Potion" description="Nothing" price="14" type="stackableitem" productid="7589" count="250" icons="chameleon_rune.png" />
+        <offer name="Great Mana Potion" description="Nothing" price="9" type="stackableitem" productid="7590" count="100" icons="chameleon_rune.png" />
+        <offer name="Great Mana Potion" description="Nothing" price="21" type="stackableitem" productid="7590" count="250" icons="chameleon_rune.png" />
+        <offer name="Ultimate Mana Potion" description="Nothing" price="25" type="stackableitem" productid="26029" count="100" icons="chameleon_rune.png" />
+        <offer name="Ultimate Mana Potion" description="Nothing" price="63" type="stackableitem" productid="26029" count="250" icons="chameleon_rune.png" />
+        <offer name="Great Spirit Potion" description="Nothing" price="13" type="stackableitem" productid="8472" count="100" icons="chameleon_rune.png" />
+        <offer name="Great Spirit Potion" description="Nothing" price="34" type="stackableitem" productid="8472" count="250" icons="chameleon_rune.png" />
+        <offer name="Ultimate Spirit Potion" description="Nothing" price="25" type="stackableitem" productid="26030" count="100" icons="chameleon_rune.png" />
+        <offer name="Ultimate Spirit Potion" description="Nothing" price="63" type="stackableitem" productid="26030" count="250" icons="chameleon_rune.png" />
+    </category>
+    <category name="Outfits" description="Look cooler!" state="sale" icons="outfits1.png|outfits2.png|outfits3.png">
+        <offer name="Full Citizen Outfit" description="Nothing" type="outfit" addon="3" malelooktype="128" femalelooktype="136" price="360" icons="seadogfull.png" />
+        <offer name="Full Hunter Outfit" description="Nothing" type="outfit" addon="3" malelooktype="129" femalelooktype="137" price="360" icons="seadogfull.png" />
+        <offer name="Full Mage Outfit" description="Nothing" type="outfit" addon="3" malelooktype="130" femalelooktype="138" price="360" icons="seadogfull.png" />
+        <offer name="Full Knight Outfit" description="Nothing" type="outfit" addon="3" malelooktype="131" femalelooktype="139" price="360" icons="seadogfull.png" />
+        <offer name="Full Nobleman Outfit" description="Nothing" type="outfit" addon="3" malelooktype="132" femalelooktype="140" price="360" icons="seadogfull.png" />
+        <offer name="Full Summoner Outfit" description="Nothing" type="outfit" addon="3" malelooktype="133" femalelooktype="141" price="360" icons="seadogfull.png" />
+        <offer name="Full Warrior Outfit" description="Nothing" type="outfit" addon="3" malelooktype="134" femalelooktype="142" price="360" icons="seadogfull.png" />
+        <offer name="Full Barbarian Outfit" description="Nothing" type="outfit" addon="3" malelooktype="143" femalelooktype="147" price="360" icons="seadogfull.png" />
+        <offer name="Full Druid Outfit" description="Nothing" type="outfit" addon="3" malelooktype="144" femalelooktype="148" price="360" icons="seadogfull.png" />
+        <offer name="Full Wizard Outfit" description="Nothing" type="outfit" addon="3" malelooktype="145" femalelooktype="149" price="360" icons="seadogfull.png" />
+        <offer name="Full Oriental Outfit" description="Nothing" type="outfit" addon="3" malelooktype="146" femalelooktype="150" price="360" icons="seadogfull.png" />
+        <offer name="Full Pirate Outfit" description="Nothing" type="outfit" addon="3" malelooktype="151" femalelooktype="155" price="360" icons="seadogfull.png" />
+        <offer name="Full Assassin Outfit" description="Nothing" type="outfit" addon="3" malelooktype="152" femalelooktype="156" price="360" icons="seadogfull.png" />
+        <offer name="Full Beggar Outfit" description="Nothing" type="outfit" addon="3" malelooktype="153" femalelooktype="157" price="360" icons="seadogfull.png" />
+        <offer name="Full Shaman Outfit" description="Nothing" type="outfit" addon="3" malelooktype="154" femalelooktype="158" price="360" icons="seadogfull.png" />
+        <offer name="Full Norseman Outfit" description="Nothing" type="outfit" addon="3" malelooktype="251" femalelooktype="252" price="360" icons="seadogfull.png" />
+        <offer name="Full Nightmare Outfit" description="Nothing" type="outfit" addon="3" malelooktype="268" femalelooktype="269" price="360" icons="seadogfull.png" />
+        <offer name="Full Jester Outfit" description="Nothing" type="outfit" addon="3" malelooktype="273" femalelooktype="270" price="360" icons="seadogfull.png" />
+        <offer name="Full Brotherhood Outfit" description="Nothing" type="outfit" addon="3" malelooktype="278" femalelooktype="279" price="360" icons="seadogfull.png" />
+        <offer name="Full Demonhunter Outfit" description="Nothing" type="outfit" addon="3" malelooktype="289" femalelooktype="288" price="360" icons="seadogfull.png" />
+        <offer name="Full Yalaharian Outfit" description="Nothing" type="outfit" addon="3" malelooktype="325" femalelooktype="324" price="360" icons="seadogfull.png" />
+        <offer name="Full Warmaster Outfit" description="Nothing" type="outfit" addon="3" malelooktype="335" femalelooktype="336" price="360" icons="seadogfull.png" />
+        <offer name="Full Wayfarer Outfit" description="Nothing" type="outfit" addon="3" malelooktype="367" femalelooktype="366" price="360" icons="seadogfull.png" />
+        <offer name="Full Afflicted Outfit" description="Nothing" type="outfit" addon="3" malelooktype="430" femalelooktype="431" price="360" icons="seadogfull.png" />
+        <offer name="Full Elementalist Outfit" description="Nothing" type="outfit" addon="3" malelooktype="432" femalelooktype="433" price="360" icons="seadogfull.png" />
+        <offer name="Full Deepling Outfit" description="Nothing" type="outfit" addon="3" malelooktype="463" femalelooktype="464" price="360" icons="seadogfull.png" />
+        <offer name="Full Insectoid Outfit" description="Nothing" type="outfit" addon="3" malelooktype="465" femalelooktype="466" price="360" icons="seadogfull.png" />
+        <offer name="Full Entrepreneur Outfit" description="Nothing" type="outfit" addon="3" malelooktype="472" femalelooktype="471" price="360" icons="seadogfull.png" />
+        <offer name="Full Crystal Outfit" description="Nothing" type="outfit" addon="3" malelooktype="512" femalelooktype="513" price="360" icons="seadogfull.png" />
+        <offer name="Full Soil Outfit" description="Nothing" type="outfit" addon="3" malelooktype="516" femalelooktype="514" price="360" icons="seadogfull.png" />
+        <offer name="Full Demon Outfit" description="Nothing" type="outfit" addon="3" malelooktype="541" femalelooktype="542" price="360" icons="seadogfull.png" />
+        <offer name="Full Cave Explorer Outfit" description="Nothing" type="outfit" addon="3" malelooktype="574" femalelooktype="575" price="360" icons="seadogfull.png" />
+        <offer name="Full Dream Warden Outfit" description="Nothing" type="outfit" addon="3" malelooktype="577" femalelooktype="578" price="360" icons="seadogfull.png" />
+        <offer name="Full Glooth Engineer Outfit" description="Nothing" type="outfit" addon="3" malelooktype="610" femalelooktype="618" price="360" icons="seadogfull.png" />
+        <offer name="Full Champion Outfit" description="Nothing" type="outfit" addon="3" malelooktype="633" femalelooktype="632" price="360" icons="seadogfull.png" />
+        <offer name="Full Conjurer Outfit" description="Nothing" type="outfit" addon="3" malelooktype="634" femalelooktype="635" price="360" icons="seadogfull.png" />
+        <offer name="Full Beastmaster Outfit" description="Nothing" type="outfit" addon="3" malelooktype="637" femalelooktype="636" price="360" icons="seadogfull.png" />
+        <offer name="Full Chaos Acolyte Outfit" description="Nothing" type="outfit" addon="3" malelooktype="665" femalelooktype="664" price="360" icons="seadogfull.png" />
+        <offer name="Full Death Herald Outfit" description="Nothing" type="outfit" addon="3" malelooktype="667" femalelooktype="666" price="360" icons="seadogfull.png" />
+        <offer name="Full Ranger Outfit" description="Nothing" type="outfit" addon="3" malelooktype="684" femalelooktype="683" price="360" icons="seadogfull.png" />
+        <offer name="Full Ceremonial Outfit" description="Nothing" type="outfit" addon="3" malelooktype="695" femalelooktype="694" price="360" icons="seadogfull.png" />
+        <offer name="Full Puppeteer Outfit" description="Nothing" type="outfit" addon="3" malelooktype="697" femalelooktype="696" price="360" icons="seadogfull.png" />
+        <offer name="Full Spirit Caller Outfit" description="Nothing" type="outfit" addon="3" malelooktype="699" femalelooktype="698" price="360" icons="seadogfull.png" />
+        <offer name="Full Evoker Outfit" description="Nothing" type="outfit" addon="3" malelooktype="725" femalelooktype="724" price="360" icons="seadogfull.png" />
+        <offer name="Full Seaweaver Outfit" description="Nothing" type="outfit" addon="3" malelooktype="733" femalelooktype="732" price="360" icons="seadogfull.png" />
+        <offer name="Full Recruiter Outfit" description="Nothing" type="outfit" addon="3" malelooktype="746" femalelooktype="745" price="360" icons="seadogfull.png" />
+        <offer name="Full Sea Dog Outfit" description="Nothing" type="outfit" addon="3" malelooktype="750" femalelooktype="749" price="360" icons="seadogfull.png" />
+        <offer name="Full Royal Pumpkin Outfit" description="Nothing" type="outfit" addon="3" malelooktype="760" femalelooktype="759" price="360" icons="seadogfull.png" />
+        <offer name="Full Rift Warrior Outfit" description="Nothing" type="outfit" addon="3" malelooktype="846" femalelooktype="845" price="360" icons="seadogfull.png" />
+        <offer name="Full Winter Warden Outfit" description="Nothing" type="outfit" addon="3" malelooktype="853" femalelooktype="852" price="360" icons="seadogfull.png" />
+        <offer name="Full Philosopher Outfit" description="Nothing" type="outfit" addon="3" malelooktype="873" femalelooktype="874" price="360" icons="seadogfull.png" />
+        <offer name="Full Grove Keeper Outfit" description="Nothing" type="outfit" addon="3" malelooktype="908" femalelooktype="909" price="360" icons="seadogfull.png" />
+        <offer name="Full Lupine Warden Outfit" description="Nothing" type="outfit" addon="3" malelooktype="899" femalelooktype="900" price="360" icons="seadogfull.png" />
+        <offer name="Full Festive Outfit" description="Nothing" type="outfit" addon="3" malelooktype="931" femalelooktype="929" price="360" icons="seadogfull.png" />
+        <offer name="Full Pharaoh Outfit" description="Nothing" type="outfit" addon="3" malelooktype="955" femalelooktype="956" price="360" icons="seadogfull.png" />
+        <offer name="Full New Outfit" description="Nothing" type="outfit" addon="3" malelooktype="957" femalelooktype="958" price="360" icons="seadogfull.png" />
     </category>
     <category name="Premium Time" description="Buy Premium Time today and get new spells, and access to premium areas!" icons="premiumtime.png" >
         <offer name="30 days of Premium Time" description="get a month (30 days) of premium time." price="250" type="premiumtime" days="30" icons="premium30.png"/>
-        <offer name="90 days of Premium Time" description="90 days of premium time." price="400" state="sale" type="premiumtime" days="90" icons="premium90sale.png"/>
+        <offer name="90 days of Premium Time" description="90 days of premium time." price="750" state="sale" type="premiumtime" days="90" icons="premium90sale.png"/>
+        <offer name="180 days of Premium Time" description="180 days of premium time." price="1500" state="sale" type="premiumtime" days="180" icons="premium90sale.png"/>
+        <offer name="360 days of Premium Time" description="360 days of premium time." price="3000" state="sale" type="premiumtime" days="360" icons="premium90sale.png"/>
     </category>
 </gamestore>
