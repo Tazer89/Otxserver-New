@@ -1330,7 +1330,60 @@
 		<vocation name="Elite Knight" showInDescription="0" />
 	</melee>
 	<!-- 10.94 no SITE FIM -->
-	
+
+	<!-- Fist Weapons -->
+	<melee id="26661" level="1" unproperly="1" />
+	<melee id="26662" level="1" unproperly="1" />
+	<melee id="26686" level="1" unproperly="1">
+		<vocation name="Knight" />
+		<vocation name="Elite Knight" showInDescription="0" />
+	</melee>
+	<melee id="26687" level="1" unproperly="1">
+		<vocation name="Knight" />
+		<vocation name="Elite Knight" showInDescription="0" />
+	</melee>
+	<melee id="26682" level="50" unproperly="1">
+		<vocation name="Knight" />
+		<vocation name="Elite Knight" showInDescription="0" />
+	</melee>
+	<melee id="26683" level="50" unproperly="1">
+		<vocation name="Knight" />
+		<vocation name="Elite Knight" showInDescription="0" />
+	</melee>
+	<melee id="26659" level="30" unproperly="1">
+		<vocation name="Knight" />
+		<vocation name="Elite Knight" showInDescription="0" />
+	</melee>
+	<melee id="26658" level="30" unproperly="1">
+		<vocation name="Knight" />
+		<vocation name="Elite Knight" showInDescription="0" />
+	</melee>
+	<melee id="26684" level="70" unproperly="1">
+		<vocation name="Knight" />
+		<vocation name="Elite Knight" showInDescription="0" />
+	</melee>
+
+	<!-- Guns -->
+	<distance id="26676" level="8" unproperly="1"> <!-- Revolver -->
+		<vocation name="Paladin" />
+		<vocation name="Royal Paladin" showInDescription="0" />
+	</distance>
+	<distance id="26677" level="25" unproperly="1"> <!-- Shotgun -->
+		<vocation name="Paladin" />
+		<vocation name="Royal Paladin" showInDescription="0" />
+	</distance>
+	<distance id="26669" level="55" unproperly="1"> <!-- Iron Gun -->
+		<vocation name="Paladin" />
+		<vocation name="Royal Paladin" showInDescription="0" />
+	</distance>
+	<distance id="26668" level="100" unproperly="1"> <!-- Golden Gun -->
+		<vocation name="Paladin" />
+		<vocation name="Royal Paladin" showInDescription="0" />
+	</distance>
+	<distance id="26678" level="150" unproperly="1"> <!-- Precise Gun -->
+		<vocation name="Paladin" />
+		<vocation name="Royal Paladin" showInDescription="0" />
+	</distance>
 	 
 	<!-- 10.94 distance FIM -->
 	<distance id="22417" level="150" unproperly="1"> <!-- Umbral Bow -->
@@ -1372,6 +1425,8 @@
 	<distance id="2399" breakchance="10" /> <!-- throwing star -->
 	<distance id="2410" breakchance="7" /> <!-- throwing knife -->
 	<distance id="2543" action="removecount" /> <!-- bolt -->
+	<distance id="26656" action="removecount" /> <!-- bullet -->
+	<distance id="26675" action="removecount" /> <!-- shell -->
 	<distance id="2544" action="removecount" /> <!-- arrow -->
 	<distance id="2545" action="removecount" script="poison_arrow.lua" /> <!-- poison arrow -->
 	<distance id="2546" action="removecount" script="burst_arrow.lua" /> <!-- burst arrow -->
