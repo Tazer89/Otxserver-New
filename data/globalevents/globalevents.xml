@@ -77,4 +77,6 @@
 	<globalevent name="autoBroadcast" interval="900000" script="autobroadcast.lua"/>
 	<globalevent name="oramondTPS" type="startup" script="news/oramondTPS.lua"/>
 	<globalevent name="oramondTPS1" type="startup" script="news/oramondTPS1.lua"/>
+	<globalevent type="startup" name="RashidSpawn" script="spawn/RashidSpawn.lua" />
+	<globalevent type="startup" name="CilliaSpawn" script="spawn/CilliaSpawn.lua" />
 </globalevents>
